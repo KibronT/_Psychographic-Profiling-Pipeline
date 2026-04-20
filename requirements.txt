@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+nrclex
+vaderSentiment
+empath
+textstat
+sentence-transformers
+hdbscan
+umap-learn
+scikit-learn
