@@ -10,8 +10,8 @@ Instead of predicting individual reader personality, this pipeline characterizes
 
 Two layers of analysis:
 
-1. **Schwartz Basic Human Values** — classifies article topic clusters into value categories (Security, Power, Achievement, Benevolence, etc.) to show **WHAT** each outlet prioritizes
-2. **Moral Foundations Theory (MFT)** — scores content on 5 moral foundations (Care, Fairness, Loyalty, Authority, Sanctity) to show **HOW** each outlet morally frames what it covers
+1. **Schwartz Basic Human Values**: classifies article topic clusters into value categories (Security, Power, Achievement, Benevolence, etc.) to show **WHAT** each outlet prioritizes
+2. **Moral Foundations Theory (MFT)**: scores content on 5 moral foundations (Care, Fairness, Loyalty, Authority, Sanctity) to show **HOW** each outlet morally frames what it covers
 
 ## Theoretical Grounding
 
