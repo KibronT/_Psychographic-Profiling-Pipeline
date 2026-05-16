@@ -1,11 +1,9 @@
 numpy
 pandas
+pyarrow
 matplotlib
-nrclex
-vaderSentiment
-empath
-textstat
-sentence-transformers
-hdbscan
-umap-learn
+scipy
 scikit-learn
+sentence-transformers
+umap-learn
+hdbscan
